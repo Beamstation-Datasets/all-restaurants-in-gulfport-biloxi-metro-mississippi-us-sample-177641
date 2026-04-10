@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Gulfport-Biloxi (Metro), Mississippi, covering Gulfport and Biloxi. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Gulfport-Biloxi (Metro), Mississippi, US",
+  "export_job_id": "ae887a3b-826e-470a-abd2-92a5d8be7d03",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 177641,
+  "location_name": "Gulfport-Biloxi, MS",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-gulfport-biloxi-metro-mississippi-us-sample-177641",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/177641/beamstation_177641_restaurants-us-gulfportbiloxims_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 115,
+  "sample_sha256": "edfa7f84f936a7ea88ee33e340cbb50f9b107601d530abc6171fc37d0232ca0f",
+  "sample_size_bytes": 404239,
+  "total_records": 1157,
+  "updated_at": "2026-04-09T13:20:51.735438+00:00"
+}
