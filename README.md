@@ -1,6 +1,6 @@
 # All Restaurants in Gulfport-Biloxi (Metro), Mississippi, US
 
-> Free BeamStation sample export with 115 rows and masked direct-contact fields.
+> Free BeamStation sample export with 108 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `177641` |
 | Location | Gulfport-Biloxi, MS |
 | Category | Restaurants |
-| Full dataset size | 1,157 records |
-| Free sample size | 115 records (9.94%) |
-| Last export | 2026-04-09T13:20:51.735438+00:00 |
+| Full dataset size | 1,088 records |
+| Free sample size | 108 records (9.93%) |
+| Last export | 2026-04-16T13:45:42.552292+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-gulfport-biloxi-metro-mississippi-us-sample-177641/releases/download/sample-latest/beamstation_177641_restaurants-us-gulfportbiloxims_SAMPLE_DIST.csv) |
 
 ## What is in this sample
