@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ae887a3b-826e-470a-abd2-92a5d8be7d03",
+  "export_job_id": "7b49223f-de04-463b-938f-8ffaa3a5b6af",
   "id_short": 177641,
-  "published_at": "2026-04-10T19:26:19Z",
+  "published_at": "2026-04-19T19:27:38Z",
   "repo_name": "all-restaurants-in-gulfport-biloxi-metro-mississippi-us-sample-177641",
   "sample_asset_name": "beamstation_177641_restaurants-us-gulfportbiloxims_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/177641/beamstation_177641_restaurants-us-gulfportbiloxims_SAMPLE_DIST.csv",
-  "sample_records": 115,
-  "sample_sha256": "edfa7f84f936a7ea88ee33e340cbb50f9b107601d530abc6171fc37d0232ca0f",
-  "sample_size_bytes": 404239,
-  "total_records": 1157
+  "sample_records": 108,
+  "sample_sha256": "bc90d9440764cbad0450880c8f52e6c1e6b02a9ad890f7259d7db6cc7916e624",
+  "sample_size_bytes": 373096,
+  "total_records": 1088
 }
